@@ -1,0 +1,32 @@
+2022-06-04T10:50:31Z	ERROR	repo/ceateuser.go:18	sql: no rows in result set
+2022-06-04T10:50:31Z	ERROR	user/service.go:41	sql: no rows in result set
+2022-06-04T10:50:31Z	ERROR	user/api.go:178	sql: no rows in result set
+2022-06-04T10:54:13Z	ERROR	repo/ceateuser.go:18	sql: no rows in result set
+2022-06-04T10:54:13Z	ERROR	user/service.go:41	sql: no rows in result set
+2022-06-04T10:54:13Z	ERROR	user/api.go:178	sql: no rows in result set
+2022-06-04T10:54:38Z	ERROR	user/service.go:41	sql: no rows in result set
+2022-06-04T10:54:38Z	ERROR	user/api.go:178	sql: no rows in result set
+2022-06-04T10:56:53Z	ERROR	user/api.go:230	please provide first name
+2022-06-04T11:09:10Z	ERROR	repo/updateusers.go:19	sql: Scan error on column index 1, name "lastname": destination not a pointer
+2022-06-04T11:09:10Z	ERROR	user/service.go:58	internal server error
+2022-06-04T11:09:10Z	ERROR	user/api.go:240	internal server error
+2022-06-04T11:10:00Z	ERROR	user/api.go:230	please provide first name
+2022-06-04T11:15:33Z	INFO	repo/updateusers.go:18	{ shrama 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:17:03Z	INFO	repo/updateusers.go:18	{ shrama 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:17:08Z	INFO	repo/updateusers.go:18	{hello shrama 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:18:14Z	INFO	repo/updateusers.go:18	{ shrama 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:18:14Z	INFO	repo/updateusers.go:26	user:{hello shrama 2000-10-07 00:00:00 +0000 UTC}
+2022-06-04T11:18:49Z	INFO	repo/updateusers.go:18	{hello shrama 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:18:49Z	INFO	repo/updateusers.go:26	user:{ shrama 2000-10-07 00:00:00 +0000 UTC}
+2022-06-04T11:20:42Z	INFO	repo/updateusers.go:18	{ shrama 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:20:42Z	INFO	repo/updateusers.go:26	user:{hello shrama 2000-10-07 00:00:00 +0000 UTC}
+2022-06-04T11:20:49Z	INFO	repo/updateusers.go:18	{hello shrama 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:20:49Z	INFO	repo/updateusers.go:26	user:{hello shrama 2000-10-07 00:00:00 +0000 UTC}
+2022-06-04T11:20:56Z	INFO	repo/updateusers.go:18	{hello shrama 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:20:56Z	INFO	repo/updateusers.go:26	user:{hii sge 2000-10-07 00:00:00 +0000 UTC}
+2022-06-04T11:21:01Z	INFO	repo/updateusers.go:18	{hii sge 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:21:01Z	INFO	repo/updateusers.go:26	user:{hii sge 2000-10-07 00:00:00 +0000 UTC}
+2022-06-04T11:21:09Z	INFO	repo/updateusers.go:18	{hii sge 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:21:09Z	INFO	repo/updateusers.go:26	user:{hii sge 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:21:23Z	INFO	repo/updateusers.go:18	{hii sge 2000-10-07 00:00:00 +0000 +0000}
+2022-06-04T11:21:23Z	INFO	repo/updateusers.go:26	user:{ms Dhoni 2000-10-07 00:00:00 +0000 +0000}
